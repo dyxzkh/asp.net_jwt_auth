@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "asp.net_jwt.Controllers.AuthenticationsController",
+    "Method": "Login",
+    "RelativePath": "api/Authentications/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "asp.net_jwt.DTOs.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp.net_jwt.Controllers.AuthenticationsController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Authentications/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "asp.net_jwt.DTOs.RefreshTokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "asp.net_jwt.Controllers.UserController",
     "Method": "GetAllUsers",
     "RelativePath": "api/User",

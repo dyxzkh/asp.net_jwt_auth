@@ -1,6 +1,7 @@
 ﻿using asp.net_jwt.Data.Models;
 using asp.net_jwt.DTOs;
 using asp.net_jwt.Repositories.UserRepository;
+using asp.net_jwt.Services.JWT;
 using AutoMapper;
 using BC = BCrypt.Net.BCrypt;
 

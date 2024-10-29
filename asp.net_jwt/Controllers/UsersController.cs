@@ -1,6 +1,8 @@
 ﻿using asp.net_jwt.Data;
+using asp.net_jwt.Data.Response;
 using asp.net_jwt.DTOs;
 using asp.net_jwt.Services.UserService;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace asp.net_jwt.Controllers
@@ -19,6 +21,7 @@ namespace asp.net_jwt.Controllers
         }
 
         // GET: api/users
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<List<UserDto>>> GetAllUsers()
         {

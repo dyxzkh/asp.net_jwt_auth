@@ -10,6 +10,8 @@ namespace asp.net_jwt.DTOs
         public string Email { get; set; } = string.Empty;
         public string Username { get; set; } = string.Empty;
         public bool IsEnable { get; set; }
+        public string RefreshToken { get; set; } = string.Empty;
+        public DateTime RefreshTokenExpires = DateTime.UtcNow;
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
     }
@@ -21,9 +23,11 @@ namespace asp.net_jwt.DTOs
         public string Email { get; set; } = string.Empty;
         public string Username { get; set; } = string.Empty;
         public string Password { get; set; } = string.Empty;
+        public string RefreshToken { get; set; } = string.Empty;
+
+        public DateTime RefreshTokenExpires = DateTime.UtcNow;
         public bool IsEnable { get; set; }
     }
-
     public class UserUpdateDto
     {
         public string Firstname { get; set; } = string.Empty;

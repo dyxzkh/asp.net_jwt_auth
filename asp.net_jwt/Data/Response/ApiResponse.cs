@@ -1,12 +1,12 @@
-﻿namespace asp.net_jwt.Data
+﻿namespace asp.net_jwt.Data.Response
 {
     public class ApiResponse
     {
-        public int StatusCode { get; set; } 
+        public int StatusCode { get; set; }
         public string Message { get; set; }
-        public object Details { get; set; }
+        public object? Details { get; set; }
 
-        public ApiResponse(int statusCode = 500, string? message = null, object details = null)
+        public ApiResponse(int statusCode = 500, string? message = null, object? details = null)
         {
             StatusCode = statusCode;
             Message = message ?? GetDefaultMessageForStatusCode(statusCode);

@@ -27,6 +27,11 @@ namespace asp.net_jwt.Data.Models
         [StringLength(255)]
         public string Password { get; set; } = string.Empty;
 
+        public string RefreshToken { get; set; } = string.Empty;
+
+        [Required]
+        public DateTime RefreshTokenExpires { get; set; } = DateTime.Now;
+
         [Required]
         public bool IsEnable { get; set; }
 

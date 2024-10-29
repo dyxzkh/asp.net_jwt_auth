@@ -3,56 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\repositories\\userrepository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\repositories\\userrepository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\authenticationservice\\authenticationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\authenticationservice\\authenticationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\asp.net_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\asp.net_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\data\\response\\jwtresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\data\\response\\jwtresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\repositories\\userrepository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\repositories\\userrepository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\userservice\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\userservice\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|c:\\users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E13E15-9E68-4540-9300-E796E0506C72}|asp.net_jwt\\asp.net_jwt.csproj|solutionrelative:asp.net_jwt\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +102,305 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationsController.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\AuthenticationsController.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Controllers\\AuthenticationsController.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\AuthenticationsController.cs",
-              "RelativeToolTip": "asp.net_jwt\\Controllers\\AuthenticationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:54:33.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "asp.net_jwt\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\DTOs\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\RefreshToken.cs",
+              "RelativeToolTip": "asp.net_jwt\\DTOs\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:53:39.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Profiles\\UserProfile.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Profiles\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Profiles\\UserProfile.cs",
-              "RelativeToolTip": "asp.net_jwt\\Profiles\\UserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:47:51.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Models\\User.cs",
-              "RelativeToolTip": "asp.net_jwt\\Data\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:40:31.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\User.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\DTOs\\User.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\User.cs",
-              "RelativeToolTip": "asp.net_jwt\\DTOs\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:40:27.165Z",
+              "WhenOpened": "2024-10-29T10:08:20.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\ApiResponse.cs",
-              "RelativeToolTip": "asp.net_jwt\\Data\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Title": "AuthenticationServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\AuthenticationService\\AuthenticationServiceImpl.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Services\\AuthenticationService\\AuthenticationServiceImpl.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\AuthenticationService\\AuthenticationServiceImpl.cs",
+              "RelativeToolTip": "asp.net_jwt\\Services\\AuthenticationService\\AuthenticationServiceImpl.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwF8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:58:04.908Z",
+              "WhenOpened": "2024-10-29T08:07:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\AuthenticationsController.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Controllers\\AuthenticationsController.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\AuthenticationsController.cs",
+              "RelativeToolTip": "asp.net_jwt\\Controllers\\AuthenticationsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:50:25.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GlobalErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
-              "RelativeToolTip": "asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:57:56.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
-              "RelativeToolTip": "asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:55:10.638Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "asp.net_jwt\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.Development.json",
+              "RelativeToolTip": "asp.net_jwt\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T08:28:34.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
-              "RelativeToolTip": "asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\User.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\DTOs\\User.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\User.cs",
+              "RelativeToolTip": "asp.net_jwt\\DTOs\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:54:58.225Z",
+              "WhenOpened": "2024-10-29T07:26:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\DTOs\\Login.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\DTOs\\Login.cs",
+              "RelativeToolTip": "asp.net_jwt\\DTOs\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:51:56.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeToolTip": "asp.net_jwt\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:07:04.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "asp.net_jwt\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwEkAAAAoAAAAAAAAAA==",
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "asp.net_jwt\\Data\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:47:12.861Z",
+              "WhenOpened": "2024-10-29T09:24:31.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\IUserService.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Services\\UserService\\IUserService.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\IUserService.cs",
-              "RelativeToolTip": "asp.net_jwt\\Services\\UserService\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "asp.net_jwt\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:54:25.855Z",
+              "WhenOpened": "2024-10-29T08:25:05.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Program.cs",
-              "RelativeDocumentMoniker": "asp.net_jwt\\Program.cs",
-              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Program.cs",
-              "RelativeToolTip": "asp.net_jwt\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:57:46.866Z",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.json",
+              "RelativeDocumentMoniker": "asp.net_jwt\\appsettings.json",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\appsettings.json",
+              "RelativeToolTip": "asp.net_jwt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T08:28:24.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Program.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Program.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Program.cs",
+              "RelativeToolTip": "asp.net_jwt\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:32:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\JWT\\JWTService.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Services\\JWT\\JWTService.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\JWT\\JWTService.cs",
+              "RelativeToolTip": "asp.net_jwt\\Services\\JWT\\JWTService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:29:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "asp.net_jwt.http",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\asp.net_jwt.http",
+              "RelativeDocumentMoniker": "asp.net_jwt\\asp.net_jwt.http",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\asp.net_jwt.http",
+              "RelativeToolTip": "asp.net_jwt\\asp.net_jwt.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-29T09:39:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Models\\User.cs",
+              "RelativeToolTip": "asp.net_jwt\\Data\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:40:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JWTResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Response\\JWTResponse.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Data\\Response\\JWTResponse.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Data\\Response\\JWTResponse.cs",
+              "RelativeToolTip": "asp.net_jwt\\Data\\Response\\JWTResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:51:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "asp.net_jwt\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:50:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UserServiceImpl.cs",
               "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\UserServiceImpl.cs",
               "RelativeDocumentMoniker": "asp.net_jwt\\Services\\UserService\\UserServiceImpl.cs",
               "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\UserServiceImpl.cs",
               "RelativeToolTip": "asp.net_jwt\\Services\\UserService\\UserServiceImpl.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwE4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:49:24.878Z",
+              "WhenOpened": "2024-10-29T07:29:27.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "asp.net_jwt\\Repositories\\UserRepository\\UserRepositoryImpl.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:29:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241029090508_refresh_token_with_expire.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs",
+              "RelativeToolTip": "asp.net_jwt\\Migrations\\20241029090508_refresh_token_with_expire.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:05:08.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241029090432_refresh_token.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs",
+              "RelativeToolTip": "asp.net_jwt\\Migrations\\20241029090432_refresh_token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:04:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241029090316_refresh_token.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs",
+              "RelativeToolTip": "asp.net_jwt\\Migrations\\20241029090316_refresh_token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:03:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "asp.net_jwt\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:29:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "asp.net_jwt\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sovan\\source\\repos\\asp.net_jwt\\asp.net_jwt\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "asp.net_jwt\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:29:26.584Z",
               "EditorCaption": ""
             }
           ]
